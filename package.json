@@ -1,7 +1,8 @@
 {
-  "name": "web-scraper-app",
+  "name": "datascout",
   "version": "0.1.0",
   "private": true,
+  "description": "A powerful and flexible web data extraction tool with advanced features and a modern UI",
   "type": "module",
   "scripts": {
     "dev": "vite",
